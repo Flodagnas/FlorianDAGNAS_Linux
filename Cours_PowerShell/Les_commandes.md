@@ -1,8 +1,7 @@
 # Les Commandes de base
 
-Pour bien débuter en Powershell, voici des commandes pratiques simple a comprendre.
-
-Les voici dans le tableau de synthèse suivant :
+Pour bien débuter en Powershell, voici des commandes pratiques simple a comprendre.   
+Les voici dans le tableau de synthèse suivant :   
 | Cmdlet | Description | Alias |
 | ------------------------------------------- | ------------------------ | ------------------------ |
 | Get-Command | Informations de base sur les commandes | gcm |

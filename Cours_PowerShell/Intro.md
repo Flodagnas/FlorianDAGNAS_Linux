@@ -1,11 +1,8 @@
 # PowerShell
 
-Bienvenue dans la communauté PowerShell GitHub!
 PowerShell Core est un outil / cadre d'automatisation et de configuration multiplateforme (Windows, Linux et macOS) qui fonctionne bien avec vos outils existants et est optimisé
 pour traiter des données structurées (par exemple JSON, CSV, XML, etc.), des API REST et des modèles d'objets.
 Il comprend un shell de ligne de commande, un langage de script associé et un cadre de traitement des applets de commande.
-
-[logo]: https://raw.githubusercontent.com/PowerShell/PowerShell/master/assets/ps_black_64.svg?sanitize=true
 
 ## Windows PowerShell contre PowerShell Core
 
@@ -13,19 +10,10 @@ Bien que ce référentiel ait commencé comme une fourchette de la base de code 
 Cela signifie également que [problèmes suivis ici] [problèmes] ne concernent que PowerShell Core 6 et supérieur.
 Les problèmes spécifiques à Windows PowerShell doivent être ouverts sur [UserVoice] [].
 
-[problèmes]: https://github.com/PowerShell/PowerShell/issues
-[UserVoice]: https://windowsserver.uservoice.com/forums/301869-powershell
-
-## Nouveau sur PowerShell?
-
-Si vous ne connaissez pas PowerShell et souhaitez en savoir plus, nous vous recommandons de consulter la documentation [mise en route] [].
-
-[pour commencer]: https://github.com/PowerShell/PowerShell/tree/master/docs/learning-powershell
 
 ## Obtenez PowerShell
 
-Vous pouvez télécharger et installer un package PowerShell pour l'une des plates-formes suivantes.
-
+Liste des téléchargements et installations pour un package PowerShell sur différentes plates-formes.
 | Plateforme prise en charge | Télécharger (LTS) | Téléchargements (stable) | Téléchargements (aperçu) | Comment installer |
 | ------------------------------------------- | ------------------------ | ------------------------ | ---------------------- | ------------------------------ |
 | [Windows (x64)] [corefx-win] | [.msi] [lts-windows-64] | [.msi] [rl-windows-64] | [.msi] [pv-windows-64] | [Instructions] [dans Windows] |
@@ -43,13 +31,3 @@ Vous pouvez télécharger et installer un package PowerShell pour l'une des plat
 | [Fedora 30] [corefx-linux] | [.rpm] [lts-centos] | [.rpm] [rl-centos] | [.rpm] [pv-centos] | [Instructions] [in-fedora] |
 | [macOS 10.13 +] [corefx-macos] | [.pkg] [lts-macos] | [.pkg] [rl-macos] | [.pkg] [pv-macos] | [Instructions] [in-macos] |
 | Docker | | | | [Instructions] [dans le docker] |
-
-Possibilité de télécharger et installer un package PowerShell pour l'une des plates-formes suivantes.
-
-| Plateforme | Téléchargements (stable) | Téléchargements (aperçu) | Comment installer |
-| ------------------------- | ------------------------ | ----------------------------- | ------------------------------ |
-| Arch Linux | | | [Instructions] [in-archlinux] |
-| Kali Linux | [.deb] [rl-ubuntu16] | [.deb] [pv-ubuntu16] | [Instructions] [in-kali] |
-| De nombreuses distributions Linux | [Snapcraft] [rl-snap] | [Snapcraft] [pv-snap] | |
-
-Possibilité d'également télécharger les archives binaires PowerShell pour Windows, macOS et Linux.

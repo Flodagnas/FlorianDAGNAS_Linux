@@ -11,7 +11,7 @@ Cela signifie également que [problèmes suivis ici] [problèmes] ne concernent 
 Les problèmes spécifiques à Windows PowerShell doivent être ouverts sur [UserVoice] [].
 
 
-## Obtenez PowerShell
+## Obtenir PowerShell
 
 Liste des téléchargements et installations pour un package PowerShell sur différentes plates-formes.
 | Plateforme prise en charge | Télécharger (LTS) | Téléchargements (stable) | Téléchargements (aperçu) | Comment installer |

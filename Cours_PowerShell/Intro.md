@@ -137,29 +137,6 @@ Vous pouvez également télécharger les archives binaires PowerShell pour Windo
 
 Pour installer une version spécifique, visitez [releases] (https://github.com/PowerShell/PowerShell/releases).
 
-## Tableau de bord de la communauté
-
-[Tableau de bord] (https://aka.ms/psgithubbi) avec des visualisations pour les contributions de la communauté et l'état du projet à l'aide de PowerShell, Azure et PowerBI.
-
-Pour plus d'informations sur comment et pourquoi nous avons créé ce tableau de bord, consultez cet [article de blog] (https://devblogs.microsoft.com/powershell/powershell-open-source-community-dashboard/).
-
-## Chat
-
-Vous souhaitez discuter avec d'autres membres de la communauté PowerShell?
-
-Nous avons une salle Gitter que vous pouvez rejoindre ci-dessous.
-
-[! [Rejoignez le chat] (https://img.shields.io/static/v1.svg?label=chat&message=on%20gitter&color=informational&logo=gitter)] (https://gitter.im/PowerShell/PowerShell? utm_source = badge & utm_medium = badge & utm_campaign = pr-badge & utm_content = badge)
-
-Il existe également le groupe d'utilisateurs virtuels PowerShell géré par la communauté, auquel vous pouvez vous joindre:
-
-* [Slack] (https://aka.ms/psslack)
-* [Discord] (https://aka.ms/psdiscord)
-
-## Modules complémentaires et bibliothèques
-
-[Awesome PowerShell] (https://github.com/janikvonrotz/awesome-powershell) a une excellente liste de modules complémentaires et de ressources.
-
 ## Construction du référentiel
 
 | Linux | Windows | macOS |

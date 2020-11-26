@@ -18,6 +18,9 @@ Note : Depuis Powershell v3, il est possible d’utiliser la complétion au sein
 Vous pouvez utiliser la souris dans la console ! afin de copier/coller du texte. Pour cela, vérifiez que les propriétés de la fenêtre PowerShell, sont bien configurées : Sous l’onglet “Options”, cochez la case “Édition rapide” (C’est normalement le cas par défaut).
 
 1 – “Clic gauche maintenu” et glissement pour la sélection du texte qui doit apparaitre en surbrillance.
+
 2 – “Clic droit” n’importe où = “copier” (La sélection passe dans le presse-papier)
+
 3 – “Clic gauche” sur le point d’insertion désiré
+
 4 – “Clic droit” = “Coller”

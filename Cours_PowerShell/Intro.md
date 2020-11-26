@@ -1,6 +1,6 @@
 # PowerShell
 
-PowerShell Core est un outil / cadre d'automatisation et de configuration multiplateforme (Windows, Linux et macOS) qui fonctionne bien avec vos outils existants et est optimisé
+PowerShell Core est un cadre d'automatisation et de configuration multiplateforme (Windows, Linux et macOS) qui fonctionne bien avec vos outils existants et est optimisé
 pour traiter des données structurées (par exemple JSON, CSV, XML, etc.), des API REST et des modèles d'objets.
 Il comprend un shell de ligne de commande, un langage de script associé et un cadre de traitement des applets de commande.
 

@@ -44,7 +44,7 @@ Vous pouvez télécharger et installer un package PowerShell pour l'une des plat
 | [macOS 10.13 +] [corefx-macos] | [.pkg] [lts-macos] | [.pkg] [rl-macos] | [.pkg] [pv-macos] | [Instructions] [in-macos] |
 | Docker | | | | [Instructions] [dans le docker] |
 
-Vous pouvez télécharger et installer un package PowerShell pour l'une des plates-formes suivantes, ** qui sont prises en charge par la communauté. **
+Possibilité de télécharger et installer un package PowerShell pour l'une des plates-formes suivantes.
 
 | Plateforme | Téléchargements (stable) | Téléchargements (aperçu) | Comment installer |
 | ------------------------- | ------------------------ | ----------------------------- | ------------------------------ |
@@ -52,4 +52,4 @@ Vous pouvez télécharger et installer un package PowerShell pour l'une des plat
 | Kali Linux | [.deb] [rl-ubuntu16] | [.deb] [pv-ubuntu16] | [Instructions] [in-kali] |
 | De nombreuses distributions Linux | [Snapcraft] [rl-snap] | [Snapcraft] [pv-snap] | |
 
-Vous pouvez également télécharger les archives binaires PowerShell pour Windows, macOS et Linux.
+Possibilité d'également télécharger les archives binaires PowerShell pour Windows, macOS et Linux.

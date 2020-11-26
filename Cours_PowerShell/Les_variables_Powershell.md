@@ -9,5 +9,5 @@ Il existe plusieurs commandes pour manipuler les variables, mais le plus simple 
 
 $Process = Get-Process
 
-Ici, la variable “Process” déclarée dans cet exemple contient la liste des processus en cours, obtenus par la commande “Get-Process”. 
+Ici, la variable “Process” déclarée dans cet exemple contient la liste des processus en cours, obtenus par la commande “Get-Process”.   
 Vous pouvez afficher son contenu en mentionnant simplement en stipulant son nom “$Process” puis “Entrée”

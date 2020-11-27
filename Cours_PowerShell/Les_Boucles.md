@@ -22,4 +22,4 @@ Enfin, il y a la boucle "For" à conditions multiple.
 ![lo](https://github.com/Flodagnas/FlorianDAGNAS_Linux/blob/main/Cours_PowerShell/Capture%205.PNG)  
 ![lol](https://github.com/Flodagnas/FlorianDAGNAS_Linux/blob/main/Cours_PowerShell/Capture%206.PNG)   
 
-Au sein d'une boucle "For", on utilise généralement la variable $i pour gérer l'initialisation et l'incrémentation. Si besoin, on peut utiliser deux conditions afin de créer une boucle For à conditions multiple. Pour cet exemple, on prend $i et $j.  
+Au sein d'une boucle "For", on utilise généralement la variable $i pour gérer l'initialisation et l'incrémentation. Si besoin, on peut utiliser deux conditions afin de créer une boucle For à conditions multiple. Pour l'exemple ci-dessus, on prend $i et $j.  

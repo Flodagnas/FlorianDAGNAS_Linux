@@ -12,4 +12,4 @@ Dans le même temps, Microsoft développe une version compatible Linux, ce côt�
 4) [Le Script](https://github.com/Flodagnas/FlorianDAGNAS_Linux/blob/main/Cours_PowerShell/Script.md)
 5) [Les Variables PowerShell](https://github.com/Flodagnas/FlorianDAGNAS_Linux/blob/main/Cours_PowerShell/Les_variables_Powershell.md)
 6) [Les Conditions](https://github.com/Flodagnas/FlorianDAGNAS_Linux/blob/main/Cours_PowerShell/Les_Conditions.md)
-7) Les Boucles
+7) [Les Boucles](https://github.com/Flodagnas/FlorianDAGNAS_Linux/blob/main/Cours_PowerShell/Les_Boucles.md)

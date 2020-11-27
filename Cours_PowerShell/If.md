@@ -1,12 +1,5 @@
 # If
 
-Voici un exemple de base de l’instruction if :  
-$condition = $true  
-if ( $condition )    
-{     
-    Write-Output "The condition was true"    
-}  
-
 L’instruction if commence par évaluer l’expression entre parenthèses.  
 Si l’évaluation génère une valeur $true, elle exécute l’élément scriptblock entre les accolades.  
 Si la valeur est $false, elle ignore cet élément scriptblock. 

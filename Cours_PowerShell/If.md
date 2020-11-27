@@ -13,3 +13,5 @@ Dans certains langages, vous pouvez placer une simple ligne de code après l’i
 Ce n’est pas le cas dans PowerShell.  
 il faut fournir un élément scriptblock complet avec entre accolades pour que l’instruction fonctionne correctement.
  
+
+[← Retour](https://github.com/Flodagnas/FlorianDAGNAS_Linux/blob/main/Cours_PowerShell/Les_Conditions.md)

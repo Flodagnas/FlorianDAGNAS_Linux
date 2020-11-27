@@ -5,4 +5,4 @@ C’est ce qu’on appelle une exécution conditionnelle.
 Vous avez une instruction ou une valeur à évaluer, et vous exécutez une autre section de code en fonction de cette évaluation.  
 C’est là précisément qu’intervient l’instruction if.  
 L’instruction if vous permet de spécifier une action non seulement lorsque l’instruction est $true, mais également quand elle est $false. 
-C’est ici qu’intervient l’instruction else.
+C’est ici qu’intervient l’instruction [else](https://github.com/Flodagnas/FlorianDAGNAS_Linux/blob/main/Cours_PowerShell/Else.md).

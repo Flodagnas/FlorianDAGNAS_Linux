@@ -1,5 +1,8 @@
 # If
 
+Voici un exemple de base de l’instruction if :
+![lol](https://github.com/Flodagnas/FlorianDAGNAS_Linux/blob/main/Cours_PowerShell/Capture%202.PNG)
+
 L’instruction if commence par évaluer l’expression entre parenthèses.  
 Si l’évaluation génère une valeur $true, elle exécute l’élément scriptblock entre les accolades.  
 Si la valeur est $false, elle ignore cet élément scriptblock. 

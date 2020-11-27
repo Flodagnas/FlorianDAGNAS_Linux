@@ -1,4 +1,5 @@
-# PowerShell
+# PowerShell  
+# ------
 
 ## C'est quoi PowerShell ?
 Le langage PowerShell est désormais incontournable pour l'administration des systèmes d'exploitation Windows, ainsi que pour l'automatisation de certaines tâches.  

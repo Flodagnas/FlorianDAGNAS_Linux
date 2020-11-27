@@ -30,4 +30,4 @@ Liste des téléchargements et installations pour un package PowerShell sur diff
 | [macOS 10.13 +] [corefx-macos] | [.pkg] [lts-macos] | [.pkg] [rl-macos] | [.pkg] [pv-macos] |
 
 
-[←Retour](https://github.com/Flodagnas/FlorianDAGNAS_Linux/blob/main/README.md)
+[← Retour](https://github.com/Flodagnas/FlorianDAGNAS_Linux/blob/main/README.md)

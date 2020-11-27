@@ -1,8 +1,6 @@
 # PowerShell
 
-PowerShell Core est un cadre d'automatisation et de configuration multiplateforme (Windows, Linux et macOS) qui fonctionne bien avec vos outils existants et est optimisé
-pour traiter des données structurées (par exemple JSON, CSV, XML, etc.), des API REST et des modèles d'objets.
-Il comprend un shell de ligne de commande, un langage de script associé et un cadre de traitement des applets de commande.
+PowerShell est une infrastructure multiplateforme pour la gestion de la configuration et de l'automatisation des tâches, composée d'un interpréteur de commandes (shell) de ligne de commande et d'un langage de script.
 
 ## Windows PowerShell contre PowerShell Core
 
@@ -30,4 +28,3 @@ Liste des téléchargements et installations pour un package PowerShell sur diff
 | [openSUSE 42.3] [corefx-linux] | [.rpm] [lts-centos] | [.rpm] [rl-centos] | [.rpm] [pv-centos] | [Instructions] [in-opensuse] |
 | [Fedora 30] [corefx-linux] | [.rpm] [lts-centos] | [.rpm] [rl-centos] | [.rpm] [pv-centos] | [Instructions] [in-fedora] |
 | [macOS 10.13 +] [corefx-macos] | [.pkg] [lts-macos] | [.pkg] [rl-macos] | [.pkg] [pv-macos] | [Instructions] [in-macos] |
-| Docker | | | | [Instructions] [dans le docker] |

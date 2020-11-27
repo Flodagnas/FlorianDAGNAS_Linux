@@ -4,7 +4,7 @@ Voici un exemple de base de l’instruction if :
 $condition = $true  
   if ( $condition ) 
   { 
-      Write-Output "The condition was true" 
+      Write-Output "The condition was true"   
   } 
  
 L’instruction if commence par évaluer l’expression entre parenthèses.  

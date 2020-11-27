@@ -28,3 +28,6 @@ Liste des téléchargements et installations pour un package PowerShell sur diff
 | [openSUSE 42.3] [corefx-linux] | [.rpm] [lts-centos] | [.rpm] [rl-centos] | [.rpm] [pv-centos] |
 | [Fedora 30] [corefx-linux] | [.rpm] [lts-centos] | [.rpm] [rl-centos] | [.rpm] [pv-centos] |
 | [macOS 10.13 +] [corefx-macos] | [.pkg] [lts-macos] | [.pkg] [rl-macos] | [.pkg] [pv-macos] |
+
+
+[←Retour](https://github.com/Flodagnas/FlorianDAGNAS_Linux/blob/main/README.md)

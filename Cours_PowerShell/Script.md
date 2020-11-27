@@ -6,3 +6,6 @@ PowerShell ISE est l'éditeur intégré à Windows et qui est adapté au scripti
 
 Le second outil n'est autre que Visual Studio Code, VSCode pour les intimes, qui ne se limite pas qu'à PowerShell contrairement à l'ISE puisque l'on pourra installer différentes extensions, dont PowerShell.  
 On pourra ensuite le configurer à souhait avec les nombreux paramètres disponibles, mais aussi l'interconnecter avec d'autres services comme GitHub et intégrer d'autres langages.
+
+
+[← Retour](https://github.com/Flodagnas/FlorianDAGNAS_Linux/blob/main/README.md)

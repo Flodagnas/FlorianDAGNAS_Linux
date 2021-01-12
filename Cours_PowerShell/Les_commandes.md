@@ -10,3 +10,6 @@ Les voici dans le tableau de synthèse suivant :
 | Get-PSDrive	 | Informations sur les “lecteurs” PowerShell | gdr |
 | Get-Module | Liste les “modules” actuellement chargés | gmo |
 | Get-PSSnapin | Liste les “snapins” actuellement chargés | gsnp |
+
+
+[← Retour](https://github.com/Flodagnas/FlorianDAGNAS_Linux/blob/main/README.md)
